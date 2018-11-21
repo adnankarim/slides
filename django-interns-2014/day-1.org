@@ -120,7 +120,7 @@
       :BEAMER_env: block
       :END:
        #+BEGIN_SRC sh
-         pip install django==1.5
+         pip install django==2.0
        #+END_SRC sh
 
 *** List packages 						    :B_block:
